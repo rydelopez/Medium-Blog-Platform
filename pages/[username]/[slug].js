@@ -66,7 +66,7 @@ export default function Post(props) {
 						</Link>
 					}
 				>
-					<HeartButton postRef={postRef} />
+					{/* <HeartButton postRef={postRef} /> */}
 				</AuthCheck>
 			</aside>
 		</main>
